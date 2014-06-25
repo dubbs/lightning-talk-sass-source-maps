@@ -1,0 +1,1 @@
+scss --sourcemap --style compressed --watch sass:stylesheets
